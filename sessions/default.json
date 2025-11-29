@@ -1,0 +1,243 @@
+{
+  "session_data": {
+    "tasks": [
+      {
+        "title": "Add task: Prepare presentation slides for Monday meeting",
+        "priority": "medium",
+        "due_date": "2025-12-01T14:12:03.570439",
+        "tags": [
+          "work"
+        ],
+        "id": "add-task-prepare-pre-20251128141203",
+        "created_at": "2025-11-28T14:12:03.571212"
+      },
+      {
+        "title": "Add task: I need to call the dentist by Friday",
+        "priority": "medium",
+        "due_date": "2025-12-05T14:17:07.833734",
+        "tags": [
+          "communication"
+        ],
+        "id": "add-task-i-need-to-c-20251128141707",
+        "created_at": "2025-11-28T14:17:07.834516"
+      },
+      {
+        "title": "Add task:",
+        "priority": "medium",
+        "tags": [],
+        "id": "add-task-20251128141707",
+        "created_at": "2025-11-28T14:17:07.837990"
+      },
+      {
+        "title": "Buy groceries",
+        "priority": "medium",
+        "tags": [
+          "shopping"
+        ],
+        "id": "buy-groceries-20251128141707",
+        "created_at": "2025-11-28T14:17:07.838025"
+      },
+      {
+        "title": "Call mom",
+        "priority": "medium",
+        "tags": [
+          "communication"
+        ],
+        "id": "call-mom-20251128141707",
+        "created_at": "2025-11-28T14:17:07.838047"
+      },
+      {
+        "title": "Finish project report",
+        "priority": "medium",
+        "tags": [
+          "work"
+        ],
+        "id": "finish-project-repor-20251128141707",
+        "created_at": "2025-11-28T14:17:07.838078"
+      },
+      {
+        "title": "Add task: Research outdoor team building activities",
+        "priority": "medium",
+        "tags": [
+          "learning"
+        ],
+        "id": "add-task-research-ou-20251128143346",
+        "created_at": "2025-11-28T14:33:46.580324"
+      },
+      {
+        "title": "Add task: Prepare presentation for Monday",
+        "priority": "medium",
+        "due_date": "2025-12-01T14:49:55.015114",
+        "tags": [],
+        "id": "add-task-prepare-pre-20251128144955",
+        "created_at": "2025-11-28T14:49:55.015114"
+      }
+    ],
+    "completed": [],
+    "blocked_times": [],
+    "preferences": {
+      "work_hours": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "preferred_focus_minutes": 90,
+      "alert_window_minutes": 60,
+      "timezone": "UTC"
+    },
+    "schedules": [
+      {
+        "date": "2025-11-28",
+        "schedule": {
+          "date": "2025-11-28",
+          "time_zone": "UTC",
+          "blocks": [
+            {
+              "start": "2025-11-28T09:00:00",
+              "end": "2025-11-28T10:30:00",
+              "task_title": "Add task: Prepare presentation slides for Monday meeting",
+              "task_id": "add-task-prepare-pre-20251128",
+              "subtask_index": 1,
+              "notes": null
+            }
+          ],
+          "unscheduled": []
+        },
+        "created_at": "2025-11-28T14:12:03.573083"
+      },
+      {
+        "date": "2025-11-28",
+        "schedule": {
+          "date": "2025-11-28",
+          "time_zone": "UTC",
+          "blocks": [
+            {
+              "start": "2025-11-28T09:00:00",
+              "end": "2025-11-28T10:30:00",
+              "task_title": "Add task: Prepare presentation slides for Monday meeting",
+              "task_id": "add-task-prepare-pre-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T10:30:00",
+              "end": "2025-11-28T12:00:00",
+              "task_title": "Add task: I need to call the dentist by Friday",
+              "task_id": "add-task-i-need-to-c-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T12:00:00",
+              "end": "2025-11-28T13:30:00",
+              "task_title": "Add task:",
+              "task_id": "add-task-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T13:30:00",
+              "end": "2025-11-28T15:00:00",
+              "task_title": "Buy groceries",
+              "task_id": "buy-groceries-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T15:00:00",
+              "end": "2025-11-28T16:30:00",
+              "task_title": "Call mom",
+              "task_id": "call-mom-20251128",
+              "subtask_index": 1,
+              "notes": "Use 90-minute work blocks with 15-20 minute breaks"
+            }
+          ],
+          "unscheduled": [
+            {
+              "task_title": "Finish project report",
+              "reason": "Task requires 90 minutes, but largest available slot is 30 minutes"
+            }
+          ]
+        },
+        "created_at": "2025-11-28T14:17:07.841747"
+      },
+      {
+        "date": "2025-11-28",
+        "schedule": {
+          "date": "2025-11-28",
+          "time_zone": "UTC",
+          "blocks": [
+            {
+              "start": "2025-11-28T09:00:00",
+              "end": "2025-11-28T10:30:00",
+              "task_title": "Add task: Prepare presentation slides for Monday meeting",
+              "task_id": "add-task-prepare-pre-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T10:30:00",
+              "end": "2025-11-28T12:00:00",
+              "task_title": "Add task: I need to call the dentist by Friday",
+              "task_id": "add-task-i-need-to-c-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T12:00:00",
+              "end": "2025-11-28T13:30:00",
+              "task_title": "Add task:",
+              "task_id": "add-task-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T13:30:00",
+              "end": "2025-11-28T15:00:00",
+              "task_title": "Buy groceries",
+              "task_id": "buy-groceries-20251128",
+              "subtask_index": 1,
+              "notes": null
+            },
+            {
+              "start": "2025-11-28T15:00:00",
+              "end": "2025-11-28T16:30:00",
+              "task_title": "Call mom",
+              "task_id": "call-mom-20251128",
+              "subtask_index": 1,
+              "notes": "Use 90-minute work blocks with 15-20 minute breaks"
+            }
+          ],
+          "unscheduled": [
+            {
+              "task_title": "Finish project report",
+              "reason": "Task requires 90 minutes, but largest available slot is 30 minutes"
+            },
+            {
+              "task_title": "Add task: Research outdoor team building activities",
+              "reason": "Task requires 90 minutes, but largest available slot is 30 minutes"
+            }
+          ]
+        },
+        "created_at": "2025-11-28T14:33:46.583682"
+      },
+      {
+        "date": "2025-11-28",
+        "schedule": {
+          "date": "2025-11-28",
+          "time_zone": "UTC",
+          "blocks": [],
+          "unscheduled": [
+            {
+              "task_title": "Schedule creation failed",
+              "reason": "`dumps_kwargs` keyword arguments are no longer supported."
+            }
+          ]
+        },
+        "created_at": "2025-11-28T14:49:55.017124"
+      }
+    ],
+    "last_updated": "2025-11-28T14:49:55.019133"
+  },
+  "saved_at": "2025-11-28T14:49:55.019133",
+  "version": "1.0"
+}
