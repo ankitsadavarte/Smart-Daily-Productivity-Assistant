@@ -44,3 +44,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Project documentation (keep local only)
+KAGGLE_SUBMISSION.md
+PROJECT_COMPLETE.md
