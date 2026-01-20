@@ -187,7 +187,7 @@ python examples/adk_demo.py
 ```bash
 # Optional API keys for enhanced features
 export WEATHER_API_KEY="your_openweathermap_key"
-export GOOGLE_API_KEY="AIzaSyAKLKZruyFTRtP2cLqE2oIYHQXAm9Be8Dg"
+export GOOGLE_API_KEY=""
 ```
 
 ### Preferences
